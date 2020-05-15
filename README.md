@@ -98,9 +98,12 @@ Project is: In progress.
 This project was inspired by Capaciti digital Career Accelerator, a skills development division of CiTi. who s vision is to enable inclusive growth of the digital economy by ensuring a supply pipeline of future-fit, skilled employees with relevant digital skills matched to industry demand. the individuals who have contribute to this code are candidates of this programme.
 
 ## Contact
-Created by: [interncptwex070capaciti.org.za
+Created by: [
+            interncptwex070capaciti.org.za
             interncptwex062@capaciti.org.za
             interncptwex@069capaciti.org.za
             interncptwex072capaciti.org.za
-            interncptwex@063capaciti.org.za] (https://priceless-northcutt-b868c1.netlify.app/index.html) 
+            interncptwex@063capaciti.org.za 
+            ] 
+            site Url: (https://priceless-northcutt-b868c1.netlify.app/index.html) 
             - feel free to email any of these code contributers for assitance!
