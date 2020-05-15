@@ -57,17 +57,22 @@ Keymaps - Vim, Sublime Text, IntelliJ, Emacs, Atom, Visual Studio, Eclipse
 Extensions integrate into VS Code's UI, commands, and task running systems so you'll find it easy to work with the above mentioned technologies through VS Code's shared interface. Check out the VS Code extension Marketplace to see what's available
 
 ## Programing practices
- Code Examples: 
-https://drive.google.com/file/d/1FBHNrYtSwGs8LLa6a_Ucms3W0GX6UpSY/view?usp=sharing
+ Code Examples:
+ 
+ '.container {
+  display: flex; /* or inline-flex */
+}'
+ 
+link: https://drive.google.com/file/d/1FBHNrYtSwGs8LLa6a_Ucms3W0GX6UpSY/view?usp=sharing
+
+
 
 Example of use: 
  to generate lorem ipusum use Press F1 type lorem ipsum and select to insert either a line or paragraph.
 
 Citation: 
           www.W3schools.com
-
           www.stackoverflow.com
-          
           www.codepen.com
           
 ## Features
@@ -91,7 +96,9 @@ To-do list:
 
 ## code documetation:
  source code: https://github.com/sakhimpungose/capaciti
+ 
  issue tracker: https://github.com/sakhimpungose/capaciti/issues
+ 
  License: 
  
 ## Status
