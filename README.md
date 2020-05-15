@@ -19,13 +19,13 @@ Motivation: Mzamomtsha Primary school is located between Khayelistha Township an
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+(./img/screenshot1.png)
 
 ## Technologies
   the project is created with:
   
 * HTML 
-* CSS - Flex Model
+* CSS - Flexbox Model
 * Javascript
 
 ## Setup
@@ -50,23 +50,31 @@ Once you have install VC set up your enviroment by downloading the following ext
 Extensions
 VS Code extensions let third parties add support for additional:
 
-Download: Html support, CSS Support, Prettier, Live server to help you preview code.
+Download: Html support, CSS Support, Prettier, Lorem ipsum, Live server to help you preview code.
 Tools - ESLint, JSHint , PowerShell
 Debuggers - Chrome, Code Debug.
 Keymaps - Vim, Sublime Text, IntelliJ, Emacs, Atom, Visual Studio, Eclipse
 Extensions integrate into VS Code's UI, commands, and task running systems so you'll find it easy to work with the above mentioned technologies through VS Code's shared interface. Check out the VS Code extension Marketplace to see what's available
 
+## Programing practices
+ Code Examples: 
+https://drive.google.com/file/d/1FBHNrYtSwGs8LLa6a_Ucms3W0GX6UpSY/view?usp=sharing
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Example of use: 
+ to generate lorem ipusum use Press F1 type lorem ipsum and select to insert either a line or paragraph.
 
+Citation: www.W3schools.com
+          www.stackoverflow.com
+          www.codepen.com
+          
 ## Features
 List of features ready and TODOs for future development
+
 * Landing page 
 * About section
-* Biography
+* Biography section
 * Staff section
+* Teachers section
 * Gallery section
 * Frequently Asked Questions
 * Footer 
@@ -76,13 +84,23 @@ To-do list:
 * Contact Form
 * Application Form
 * Donate form
-* Vacancy Application for and blog
+* Vacancy Application and blog
 
+## code documetation:
+ source code: https://github.com/sakhimpungose/capaciti
+ issue tracker: https://github.com/sakhimpungose/capaciti/issues
+ License: 
+ 
 ## Status
-Project is: in progress.
+Project is: In progress.
 
 ## Inspiration
 This project was inspired by Capaciti digital Career Accelerator, a skills development division of CiTi. who s vision is to enable inclusive growth of the digital economy by ensuring a supply pipeline of future-fit, skilled employees with relevant digital skills matched to industry demand. the individuals who have contribute to this code are candidates of this programme.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by: [interncptwex070capaciti.org.za
+            interncptwex062@capaciti.org.za
+            interncptwex@069capaciti.org.za
+            interncptwex072capaciti.org.za
+            interncptwex@063capaciti.org.za] (https://priceless-northcutt-b868c1.netlify.app/index.html) 
+            - feel free to email any of these code contributers for assitance!
