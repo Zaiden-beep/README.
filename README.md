@@ -63,8 +63,11 @@ https://drive.google.com/file/d/1FBHNrYtSwGs8LLa6a_Ucms3W0GX6UpSY/view?usp=shari
 Example of use: 
  to generate lorem ipusum use Press F1 type lorem ipsum and select to insert either a line or paragraph.
 
-Citation: www.W3schools.com
+Citation: 
+          www.W3schools.com
+
           www.stackoverflow.com
+          
           www.codepen.com
           
 ## Features
